@@ -30,7 +30,7 @@ paths and prerequisites there are binding. Build status is tracked in `BUILD_PRO
   `<span class="tag source">Source-derived</span>`, `<span class="tag educational">Educational formulation</span>`,
   `<span class="tag experimental">Experimental formulation</span>`. Most course recipes are
   educational formulations built on established technique — say so.
-- Cite only works in `references/bibliography.md` using its short keys, e.g. (Figoni, *How
+- Cite only works in `references/bibliography.md` (incl. [FDA-FoodCode], [USDA-FDC], [Lawless]) using its short keys, e.g. (Figoni, *How
   Baking Works*) or [Figoni 2011]. Do not invent page numbers, papers, DOIs or quotes. If a
   number is general professional practice, say "standard professional practice" instead of
   citing. Do not reproduce copyrighted recipes verbatim.

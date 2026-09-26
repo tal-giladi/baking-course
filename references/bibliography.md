@@ -29,6 +29,8 @@ curricula used in the research are listed in the [research report](research/rese
 | [Hui] | Weibiao Zhou and Y. H. Hui (eds.), *Bakery Products Science and Technology*, 2nd ed. Wiley-Blackwell, 2014. [doi:10.1002/9781118792001](https://doi.org/10.1002/9781118792001) | Ingredient and process chapters by specialists (Stage 2/3). |
 | [Beckett] | Stephen T. Beckett, *The Science of Chocolate*, 3rd ed. Royal Society of Chemistry, 2018. ISBN 978-1-78801-235-5. [doi:10.1039/9781839168437](https://doi.org/10.1039/9781839168437) | Chocolate composition, cocoa-butter polymorphism, tempering. |
 
+| [Lawless] | Harry T. Lawless and Hildegarde Heymann, *Sensory Evaluation of Food: Principles and Practices*, 2nd ed. Springer, 2010. [doi:10.1007/978-1-4419-6488-5](https://doi.org/10.1007/978-1-4419-6488-5) | Sensory test design: triangle tests, hedonic scales, bias control. |
+
 ## Peer-reviewed papers
 
 | Key | Paper |
@@ -41,10 +43,12 @@ curricula used in the research are listed in the [research report](research/rese
 | [Arora 2021] | K. Arora et al., "Thirty years of knowledge on sourdough fermentation: A systematic review", *Trends in Food Science & Technology* 108, 71–83, 2021. [doi:10.1016/j.tifs.2020.12.008](https://doi.org/10.1016/j.tifs.2020.12.008) |
 | [Smith 2004] | J. P. Smith et al., "Shelf life and safety concerns of bakery products — a review", *Critical Reviews in Food Science and Nutrition* 44(1), 19–55, 2004. [doi:10.1080/10408690490263774](https://doi.org/10.1080/10408690490263774) |
 
-## Food safety
+## Food safety and composition data
 
 | Key | Source |
 |---|---|
+| [FDA-FoodCode] | U.S. FDA, *Food Code* (model food-safety code: cooling, holding temperatures, the danger zone). [fda.gov](https://www.fda.gov/food/retail-food-protection/fda-food-code) |
+| [USDA-FDC] | USDA, *FoodData Central* (composition data: water content of milk, eggs, butter, honey). [fdc.nal.usda.gov](https://fdc.nal.usda.gov/) |
 | [FDA-flour] | U.S. FDA, "Handling Flour Safely: What You Need to Know". [fda.gov](https://www.fda.gov/food/buy-store-serve-safe-food/handling-flour-safely-what-you-need-know); see also CDC, "Raw Flour and Dough". [cdc.gov](https://www.cdc.gov/food-safety/foods/no-raw-dough.html) |
 | [FDA-eggs] | U.S. FDA, "What You Need to Know About Egg Safety". [fda.gov](https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety) |
 
