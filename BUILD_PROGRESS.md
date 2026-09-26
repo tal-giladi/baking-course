@@ -23,7 +23,7 @@ Plan: `curriculum/course-outline.md` · fixed paths: `curriculum/file-index.md` 
 - [x] M09 Eggs, foams, emulsions
 - [ ] M10 Cakes
 - [x] M11 Short doughs & tarts
-- [ ] M12 Custards & creams
+- [x] M12 Custards & creams
 - [ ] M13 Syrups, meringues, buttercreams
 - [ ] M14 Choux
 - [ ] M15 Laminated doughs
