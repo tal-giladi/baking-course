@@ -38,14 +38,14 @@ Each recipe is labelled with its origin: <span class="tag established">Establish
 | R1-28 | [undefined](recipes/R1-28-sugar-syrups.md) | Educational formulation | [undefined ](stage-1/module-00/README.md) |
 | R1-29 | [undefined](recipes/R1-29-meringues.md) | Educational formulation | [undefined ](stage-1/module-00/README.md) |
 | R1-30 | [undefined](recipes/R1-30-buttercreams.md) | Educational formulation | [undefined ](stage-1/module-00/README.md) |
-| R1-31 | [undefined](recipes/R1-31-pate-a-choux.md) *(missing)* |  | [undefined ](stage-1/module-00/README.md) |
-| R1-32 | [undefined](recipes/R1-32-eclairs-profiteroles.md) *(missing)* |  | [undefined ](stage-1/module-00/README.md) |
-| R1-33 | [undefined](recipes/R1-33-puff-pastry.md) *(missing)* |  | [undefined ](stage-1/module-00/README.md) |
-| R1-34 | [undefined](recipes/R1-34-croissant.md) *(missing)* |  | [undefined ](stage-1/module-00/README.md) |
-| R1-35 | [undefined](recipes/R1-35-danish.md) *(missing)* |  | [undefined ](stage-1/module-00/README.md) |
-| R1-36 | [undefined](recipes/R1-36-ganache.md) *(missing)* |  | [undefined ](stage-1/module-00/README.md) |
-| R1-37 | [undefined](recipes/R1-37-tempering.md) *(missing)* |  | [undefined ](stage-1/module-00/README.md) |
-| R1-38 | [undefined](recipes/R1-38-brownies.md) *(missing)* |  | [undefined ](stage-1/module-00/README.md) |
-| R1-39 | [undefined](recipes/R1-39-fruit-tart.md) *(missing)* |  | [undefined ](stage-1/module-00/README.md) |
-| R1-40 | [undefined](recipes/R1-40-chocolate-tart.md) *(missing)* |  | [undefined ](stage-1/module-00/README.md) |
-| R1-41 | [undefined](recipes/R1-41-layer-cake.md) *(missing)* |  | [undefined ](stage-1/module-00/README.md) |
+| R1-31 | [undefined](recipes/R1-31-pate-a-choux.md) | Educational formulation | [undefined ](stage-1/module-00/README.md) |
+| R1-32 | [undefined](recipes/R1-32-eclairs-profiteroles.md) | Educational formulation | [undefined ](stage-1/module-00/README.md) |
+| R1-33 | [undefined](recipes/R1-33-puff-pastry.md) | Educational formulation | [undefined ](stage-1/module-00/README.md) |
+| R1-34 | [undefined](recipes/R1-34-croissant.md) | Educational formulation | [undefined ](stage-1/module-00/README.md) |
+| R1-35 | [undefined](recipes/R1-35-danish.md) | Educational formulation | [undefined ](stage-1/module-00/README.md) |
+| R1-36 | [undefined](recipes/R1-36-ganache.md) | Educational formulation | [undefined ](stage-1/module-00/README.md) |
+| R1-37 | [undefined](recipes/R1-37-tempering.md) | Established technique | [undefined ](stage-1/module-00/README.md) |
+| R1-38 | [undefined](recipes/R1-38-brownies.md) | Educational formulation | [undefined ](stage-1/module-00/README.md) |
+| R1-39 | [undefined](recipes/R1-39-fruit-tart.md) | Educational formulation | [undefined ](stage-1/module-00/README.md) |
+| R1-40 | [undefined](recipes/R1-40-chocolate-tart.md) | Educational formulation | [undefined ](stage-1/module-00/README.md) |
+| R1-41 | [undefined](recipes/R1-41-layer-cake.md) | Educational formulation | [undefined ](stage-1/module-00/README.md) |

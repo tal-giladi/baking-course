@@ -29,23 +29,21 @@ Plan: `curriculum/course-outline.md` · fixed paths: `curriculum/file-index.md` 
 - [x] M15 Laminated doughs
 - [x] M16 Chocolate
 - [x] M17 Finished pastries
-- [ ] M18 Production & troubleshooting
+- [x] M18 Production & troubleshooting
 - [x] M19 Capstone lessons
 
 ## Cross-cutting
 - [x] Science track SC-01..SC-14 (D)
-- [ ] Equipment curriculum (E)
-- [ ] Troubleshooting index/method (F)
+- [x] Equipment curriculum (E)
+- [x] Troubleshooting index/method (F) — 195 entries
 - [x] Assessment system + final exam (G)
 - [x] Capstone brief + report template (H)
-- [x] Stage 2/3 extension architecture (I) — draft
+- [x] Stage 2/3 extension architecture (I)
 - [x] Bibliography verified (J)
-- [ ] Glossary compiled from module key terms
-- [ ] Recipe + experiment index pages
-- [ ] Link check (0 broken internal links), site smoke test in browser
-- [ ] GitHub Pages enabled, TODO_FOR_TAL.md written
+- [x] Glossary compiled (345 terms)
+- [x] Recipe + experiment index pages
+- [x] Link check: 0 problems in 6,322 links; site + all mermaid diagrams render
+- [x] GitHub Pages enabled, TODO_FOR_TAL.md written
 
-## Batches
-- Batch 1 (running): M00+M01, M02, M03, M04, science SC-01..07, equipment
-- Batch 2 (running): M05, M06, science SC-08..14
-- Next: M07, M08, M09, then M10–M14, then M15–M19; then indexes, glossary, troubleshooting README, assessments README/final exam, capstone, link check
+## Status
+Stage 1 complete. Regenerate after edits: `node tools/gen-sidebar.js && node tools/gen-indexes.js && node tools/check-links.js`

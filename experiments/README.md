@@ -41,12 +41,12 @@ Controlled experiments in small batches: one independent variable, a hypothesis 
 | X1-33 | [undefined](experiments/X1-33-custard-endpoint.md) | [undefined ](stage-1/module-00/README.md) |
 | X1-34 | [undefined](experiments/X1-34-starch-thickeners.md) | [undefined ](stage-1/module-00/README.md) |
 | X1-35 | [undefined](experiments/X1-35-meringue-stability.md) | [undefined ](stage-1/module-00/README.md) |
-| X1-36 | [undefined](experiments/X1-36-sugar-crystallization.md) *(missing)* | [undefined ](stage-1/module-00/README.md) |
-| X1-37 | [undefined](experiments/X1-37-choux-eggs.md) *(missing)* | [undefined ](stage-1/module-00/README.md) |
-| X1-38 | [undefined](experiments/X1-38-choux-oven.md) *(missing)* | [undefined ](stage-1/module-00/README.md) |
-| X1-39 | [undefined](experiments/X1-39-puff-folds.md) *(missing)* | [undefined ](stage-1/module-00/README.md) |
-| X1-40 | [undefined](experiments/X1-40-croissant-temperature.md) *(missing)* | [undefined ](stage-1/module-00/README.md) |
-| X1-41 | [undefined](experiments/X1-41-tempering.md) *(missing)* | [undefined ](stage-1/module-00/README.md) |
-| X1-42 | [undefined](experiments/X1-42-ganache-ratio.md) *(missing)* | [undefined ](stage-1/module-00/README.md) |
-| X1-43 | [undefined](experiments/X1-43-moisture-migration.md) *(missing)* | [undefined ](stage-1/module-00/README.md) |
-| X1-44 | [undefined](experiments/X1-44-batch-consistency.md) *(missing)* | [undefined ](stage-1/module-00/README.md) |
+| X1-36 | [undefined](experiments/X1-36-sugar-crystallization.md) | [undefined ](stage-1/module-00/README.md) |
+| X1-37 | [undefined](experiments/X1-37-choux-eggs.md) | [undefined ](stage-1/module-00/README.md) |
+| X1-38 | [undefined](experiments/X1-38-choux-oven.md) | [undefined ](stage-1/module-00/README.md) |
+| X1-39 | [undefined](experiments/X1-39-puff-folds.md) | [undefined ](stage-1/module-00/README.md) |
+| X1-40 | [undefined](experiments/X1-40-croissant-temperature.md) | [undefined ](stage-1/module-00/README.md) |
+| X1-41 | [undefined](experiments/X1-41-tempering.md) | [undefined ](stage-1/module-00/README.md) |
+| X1-42 | [undefined](experiments/X1-42-ganache-ratio.md) | [undefined ](stage-1/module-00/README.md) |
+| X1-43 | [undefined](experiments/X1-43-moisture-migration.md) | [undefined ](stage-1/module-00/README.md) |
+| X1-44 | [undefined](experiments/X1-44-batch-consistency.md) | [undefined ](stage-1/module-00/README.md) |
