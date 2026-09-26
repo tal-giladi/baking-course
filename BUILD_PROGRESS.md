@@ -14,8 +14,8 @@ Plan: `curriculum/course-outline.md` · fixed paths: `curriculum/file-index.md` 
 - [ ] M00 Orientation
 - [ ] M01 Measurement
 - [x] M02 Flour, water, salt
-- [ ] M03 Yeast & lean bread
-- [ ] M04 Heat & oven
+- [x] M03 Yeast & lean bread
+- [x] M04 Heat & oven
 - [ ] M05 Preferments & sourdough
 - [ ] M06 Enriched doughs
 - [ ] M07 Sugar & cookies
