@@ -6,9 +6,9 @@ Plan: `curriculum/course-outline.md` · fixed paths: `curriculum/file-index.md` 
 ## Foundation
 - [x] Site framework (index.html, assets/course.js progress/notes/prereq/filter, course.css)
 - [x] Authoring guide, course outline, file index
-- [ ] Research report (A) — research/research-notes.md from research pass, then research/research-report.md
-- [ ] Curriculum map + dependency graph (B)
-- [ ] README, sidebar, progress page, templates
+- [x] Research report (A)
+- [x] Curriculum map + dependency graph (B)
+- [x] README, sidebar, progress page, templates
 
 ## Modules (C) — each: README, lessons, recipes, experiments, troubleshooting file, quiz
 - [ ] M00 Orientation
@@ -38,9 +38,12 @@ Plan: `curriculum/course-outline.md` · fixed paths: `curriculum/file-index.md` 
 - [ ] Troubleshooting index/method (F)
 - [ ] Assessment system + final exam (G)
 - [ ] Capstone brief + report template (H)
-- [ ] Stage 2/3 extension architecture (I)
-- [ ] Bibliography verified (J)
+- [x] Stage 2/3 extension architecture (I) — draft
+- [x] Bibliography verified (J)
 - [ ] Glossary compiled from module key terms
 - [ ] Recipe + experiment index pages
 - [ ] Link check (0 broken internal links), site smoke test in browser
 - [ ] GitHub Pages enabled, TODO_FOR_TAL.md written
+
+## Batches
+- Batch 1 (running): M00+M01, M02, M03, M04, science SC-01..07, equipment
