@@ -13,7 +13,7 @@ Plan: `curriculum/course-outline.md` · fixed paths: `curriculum/file-index.md` 
 ## Modules (C) — each: README, lessons, recipes, experiments, troubleshooting file, quiz
 - [ ] M00 Orientation
 - [ ] M01 Measurement
-- [ ] M02 Flour, water, salt
+- [x] M02 Flour, water, salt
 - [ ] M03 Yeast & lean bread
 - [ ] M04 Heat & oven
 - [ ] M05 Preferments & sourdough
