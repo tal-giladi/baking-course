@@ -20,7 +20,7 @@ Plan: `curriculum/course-outline.md` · fixed paths: `curriculum/file-index.md` 
 - [x] M06 Enriched doughs
 - [x] M07 Sugar & cookies
 - [ ] M08 Fats, leavening, mixing methods
-- [ ] M09 Eggs, foams, emulsions
+- [x] M09 Eggs, foams, emulsions
 - [ ] M10 Cakes
 - [ ] M11 Short doughs & tarts
 - [ ] M12 Custards & creams
