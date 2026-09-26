@@ -17,7 +17,7 @@ Plan: `curriculum/course-outline.md` · fixed paths: `curriculum/file-index.md` 
 - [x] M03 Yeast & lean bread
 - [x] M04 Heat & oven
 - [x] M05 Preferments & sourdough
-- [ ] M06 Enriched doughs
+- [x] M06 Enriched doughs
 - [ ] M07 Sugar & cookies
 - [ ] M08 Fats, leavening, mixing methods
 - [ ] M09 Eggs, foams, emulsions
