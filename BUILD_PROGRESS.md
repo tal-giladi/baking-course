@@ -47,3 +47,5 @@ Plan: `curriculum/course-outline.md` · fixed paths: `curriculum/file-index.md` 
 
 ## Batches
 - Batch 1 (running): M00+M01, M02, M03, M04, science SC-01..07, equipment
+- Batch 2 (running): M05, M06, science SC-08..14
+- Next: M07, M08, M09, then M10–M14, then M15–M19; then indexes, glossary, troubleshooting README, assessments README/final exam, capstone, link check

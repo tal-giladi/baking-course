@@ -27,7 +27,7 @@ function slugs(file) {
     const m = line.match(/^#{1,6}\s+(.+?)\s*#*$/);
     if (!m) continue;
     const text = m[1].replace(/\[([^\]]*)\]\([^)]*\)/g, '$1').replace(/[*_`]/g, '');
-    const idm = text.match(/:id=(S+)/);
+    const idm = text.match(/:id=(\S+)/);
     let s = idm ? idm[1] : slug(text);
     if (seen[s] !== undefined) { seen[s]++; s = s + '-' + seen[s]; } else seen[s] = 0;
     out.add(s);
