@@ -16,7 +16,7 @@ Plan: `curriculum/course-outline.md` · fixed paths: `curriculum/file-index.md` 
 - [x] M02 Flour, water, salt
 - [x] M03 Yeast & lean bread
 - [x] M04 Heat & oven
-- [ ] M05 Preferments & sourdough
+- [x] M05 Preferments & sourdough
 - [ ] M06 Enriched doughs
 - [ ] M07 Sugar & cookies
 - [ ] M08 Fats, leavening, mixing methods
