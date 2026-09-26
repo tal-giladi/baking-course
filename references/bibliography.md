@@ -28,7 +28,6 @@ curricula used in the research are listed in the [research report](research/rese
 | [Delcour] | Jan A. Delcour and R. Carl Hoseney, *Principles of Cereal Science and Technology*, 3rd ed. AACC International, 2010. ISBN 978-1-891127-63-2. | Cereal chemistry: starch, gluten proteins, milling. |
 | [Hui] | Weibiao Zhou and Y. H. Hui (eds.), *Bakery Products Science and Technology*, 2nd ed. Wiley-Blackwell, 2014. [doi:10.1002/9781118792001](https://doi.org/10.1002/9781118792001) | Ingredient and process chapters by specialists (Stage 2/3). |
 | [Beckett] | Stephen T. Beckett, *The Science of Chocolate*, 3rd ed. Royal Society of Chemistry, 2018. ISBN 978-1-78801-235-5. [doi:10.1039/9781839168437](https://doi.org/10.1039/9781839168437) | Chocolate composition, cocoa-butter polymorphism, tempering. |
-
 | [Lawless] | Harry T. Lawless and Hildegarde Heymann, *Sensory Evaluation of Food: Principles and Practices*, 2nd ed. Springer, 2010. [doi:10.1007/978-1-4419-6488-5](https://doi.org/10.1007/978-1-4419-6488-5) | Sensory test design: triangle tests, hedonic scales, bias control. |
 
 ## Peer-reviewed papers
