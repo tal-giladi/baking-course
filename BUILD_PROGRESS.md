@@ -18,7 +18,7 @@ Plan: `curriculum/course-outline.md` · fixed paths: `curriculum/file-index.md` 
 - [x] M04 Heat & oven
 - [x] M05 Preferments & sourdough
 - [x] M06 Enriched doughs
-- [ ] M07 Sugar & cookies
+- [x] M07 Sugar & cookies
 - [ ] M08 Fats, leavening, mixing methods
 - [ ] M09 Eggs, foams, emulsions
 - [ ] M10 Cakes
