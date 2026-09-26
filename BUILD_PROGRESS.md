@@ -1,0 +1,46 @@
+# Build progress
+
+Resume point for the build. Update after every batch; commit and push after every batch.
+Plan: `curriculum/course-outline.md` · fixed paths: `curriculum/file-index.md` · style: `CLAUDE.md`.
+
+## Foundation
+- [x] Site framework (index.html, assets/course.js progress/notes/prereq/filter, course.css)
+- [x] Authoring guide, course outline, file index
+- [ ] Research report (A) — research/research-notes.md from research pass, then research/research-report.md
+- [ ] Curriculum map + dependency graph (B)
+- [ ] README, sidebar, progress page, templates
+
+## Modules (C) — each: README, lessons, recipes, experiments, troubleshooting file, quiz
+- [ ] M00 Orientation
+- [ ] M01 Measurement
+- [ ] M02 Flour, water, salt
+- [ ] M03 Yeast & lean bread
+- [ ] M04 Heat & oven
+- [ ] M05 Preferments & sourdough
+- [ ] M06 Enriched doughs
+- [ ] M07 Sugar & cookies
+- [ ] M08 Fats, leavening, mixing methods
+- [ ] M09 Eggs, foams, emulsions
+- [ ] M10 Cakes
+- [ ] M11 Short doughs & tarts
+- [ ] M12 Custards & creams
+- [ ] M13 Syrups, meringues, buttercreams
+- [ ] M14 Choux
+- [ ] M15 Laminated doughs
+- [ ] M16 Chocolate
+- [ ] M17 Finished pastries
+- [ ] M18 Production & troubleshooting
+- [ ] M19 Capstone lessons
+
+## Cross-cutting
+- [ ] Science track SC-01..SC-14 (D)
+- [ ] Equipment curriculum (E)
+- [ ] Troubleshooting index/method (F)
+- [ ] Assessment system + final exam (G)
+- [ ] Capstone brief + report template (H)
+- [ ] Stage 2/3 extension architecture (I)
+- [ ] Bibliography verified (J)
+- [ ] Glossary compiled from module key terms
+- [ ] Recipe + experiment index pages
+- [ ] Link check (0 broken internal links), site smoke test in browser
+- [ ] GitHub Pages enabled, TODO_FOR_TAL.md written

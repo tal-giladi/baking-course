@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Professional Baking — Stage 1</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <meta name="description" content="A professional baking and pastry curriculum built for future R&D: Stage 1 foundation — practical baking, baking science, controlled experiments and professional workflow.">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="assets/course.css">
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'Professional Baking',
+      repo: 'https://github.com/tal-giladi/baking-course',
+      loadSidebar: true,
+      subMaxLevel: 0,
+      auto2top: true,
+      maxLevel: 4,
+      relativePath: false,
+      alias: { '/.*/_sidebar.md': '/_sidebar.md' },
+      search: {
+        placeholder: 'Search lessons, recipes, glossary...',
+        noData: 'No results.',
+        depth: 3
+      },
+      copyCode: { buttonText: 'Copy', errorText: 'Error', successText: 'Copied' },
+      count: { countable: true },
+      mermaidConfig: { querySelector: '.mermaid' }
+    }
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+  <script>mermaid.initialize({ startOnLoad: false, theme: 'neutral', flowchart: { useMaxWidth: true } });</script>
+  <script src="assets/course.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-count/dist/countable.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-mermaid@2/dist/docsify-mermaid.js"></script>
+</body>
+</html>
