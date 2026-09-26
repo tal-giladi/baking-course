@@ -21,7 +21,7 @@ Plan: `curriculum/course-outline.md` · fixed paths: `curriculum/file-index.md` 
 - [x] M07 Sugar & cookies
 - [x] M08 Fats, leavening, mixing methods
 - [x] M09 Eggs, foams, emulsions
-- [ ] M10 Cakes
+- [x] M10 Cakes
 - [x] M11 Short doughs & tarts
 - [x] M12 Custards & creams
 - [ ] M13 Syrups, meringues, buttercreams
