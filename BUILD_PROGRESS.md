@@ -30,14 +30,14 @@ Plan: `curriculum/course-outline.md` · fixed paths: `curriculum/file-index.md` 
 - [ ] M16 Chocolate
 - [ ] M17 Finished pastries
 - [ ] M18 Production & troubleshooting
-- [ ] M19 Capstone lessons
+- [x] M19 Capstone lessons
 
 ## Cross-cutting
 - [x] Science track SC-01..SC-14 (D)
 - [ ] Equipment curriculum (E)
 - [ ] Troubleshooting index/method (F)
 - [ ] Assessment system + final exam (G)
-- [ ] Capstone brief + report template (H)
+- [x] Capstone brief + report template (H)
 - [x] Stage 2/3 extension architecture (I) — draft
 - [x] Bibliography verified (J)
 - [ ] Glossary compiled from module key terms
