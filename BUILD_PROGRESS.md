@@ -28,7 +28,7 @@ Plan: `curriculum/course-outline.md` · fixed paths: `curriculum/file-index.md` 
 - [x] M14 Choux
 - [ ] M15 Laminated doughs
 - [x] M16 Chocolate
-- [ ] M17 Finished pastries
+- [x] M17 Finished pastries
 - [ ] M18 Production & troubleshooting
 - [x] M19 Capstone lessons
 
