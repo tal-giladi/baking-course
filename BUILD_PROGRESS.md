@@ -27,7 +27,7 @@ Plan: `curriculum/course-outline.md` · fixed paths: `curriculum/file-index.md` 
 - [x] M13 Syrups, meringues, buttercreams
 - [x] M14 Choux
 - [ ] M15 Laminated doughs
-- [ ] M16 Chocolate
+- [x] M16 Chocolate
 - [ ] M17 Finished pastries
 - [ ] M18 Production & troubleshooting
 - [x] M19 Capstone lessons
