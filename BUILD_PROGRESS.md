@@ -33,7 +33,7 @@ Plan: `curriculum/course-outline.md` · fixed paths: `curriculum/file-index.md` 
 - [ ] M19 Capstone lessons
 
 ## Cross-cutting
-- [ ] Science track SC-01..SC-14 (D)
+- [x] Science track SC-01..SC-14 (D)
 - [ ] Equipment curriculum (E)
 - [ ] Troubleshooting index/method (F)
 - [ ] Assessment system + final exam (G)
