@@ -36,7 +36,7 @@ Plan: `curriculum/course-outline.md` · fixed paths: `curriculum/file-index.md` 
 - [x] Science track SC-01..SC-14 (D)
 - [ ] Equipment curriculum (E)
 - [ ] Troubleshooting index/method (F)
-- [ ] Assessment system + final exam (G)
+- [x] Assessment system + final exam (G)
 - [x] Capstone brief + report template (H)
 - [x] Stage 2/3 extension architecture (I) — draft
 - [x] Bibliography verified (J)
