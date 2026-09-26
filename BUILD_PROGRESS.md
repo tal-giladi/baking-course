@@ -24,7 +24,7 @@ Plan: `curriculum/course-outline.md` · fixed paths: `curriculum/file-index.md` 
 - [x] M10 Cakes
 - [x] M11 Short doughs & tarts
 - [x] M12 Custards & creams
-- [ ] M13 Syrups, meringues, buttercreams
+- [x] M13 Syrups, meringues, buttercreams
 - [ ] M14 Choux
 - [ ] M15 Laminated doughs
 - [ ] M16 Chocolate
