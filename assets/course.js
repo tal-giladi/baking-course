@@ -6,7 +6,7 @@
   var NOTES_KEY = 'bk.notes.v1';
 
   // Pages that can be marked complete.
-  var TRACKED = /^\/(stage-\d+\/(module-\d+\/(lesson-\d+|practical)|assessments\/[^/]+|capstone\/[^/]+)|recipes\/R[^/]+|experiments\/X[^/]+)$/;
+  var TRACKED = /^\/(stage-\d+\/(module-\d+\/lesson-\d+|assessments\/(module-\d+-quiz|final-exam)|capstone)|recipes\/R[^/]+|experiments\/X[^/]+)$/;
 
   function load(key) {
     try { return JSON.parse(localStorage.getItem(key) || '{}') || {}; } catch (e) { return {}; }
@@ -18,7 +18,7 @@
     if (!href) return null;
     var h = href.replace(/^.*#/, '').replace(/\?.*$/, '').replace(/\.md$/, '');
     if (!h || h.charAt(0) !== '/') return null;
-    return h.replace(/\/$/, '') || '/';
+    return h.replace(/\/README$/i, '').replace(/\/$/, '') || '/';
   }
   function isDone(path) { return !!load(DONE_KEY)[path]; }
   function setDone(path, on) {
